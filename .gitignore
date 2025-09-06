@@ -16,6 +16,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Results & figures (exclude large result files)
-results/**/*.png
-results/**/*.csv
+  # Results & figures (previous ignore removed)
+
